@@ -1,0 +1,228 @@
+body{
+   
+    font-family: 'Roboto'; 
+    width: 1440px;
+    background: #FFFFFF;
+    margin: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+ 
+    
+}
+.custom-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.first-color{
+    color: #363958;
+}
+.second-color{
+    color: #FF8367;
+}
+.logo{
+  color: dimgray;
+  font-size: 30px;
+  font-weight: 500;
+  float: left;
+}
+header{
+
+}
+
+
+h1{
+    font-size: 80px;   
+   
+}
+h2{
+    font-size: 48px; 
+}
+h3{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+
+}
+p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.divider-left{
+    width: 50%;
+    float: left;
+}
+.divider-right{
+    width: 100%;
+}
+.divider-right img{
+    width: 50%;
+ 
+ }
+ .about-img{
+    width: 60%;
+ 
+ }
+
+.intro-section{
+    margin-top: 5%;
+    margin-bottom: 20%;
+       
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.about-section{
+    margin-bottom: 20%;
+       
+    padding-left: 120px;
+    padding-right: 120px;
+   
+}
+.about-section p{
+   padding-bottom: 3%;
+}
+.intro-section p{
+    padding-bottom: 3%;
+ }
+.divider-left img{
+    width: 60%;
+
+
+}
+
+
+.button-1{
+  text-decoration: none;
+  font-size: 16px;
+  background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+  width: 170px;
+  height: 60px;
+  margin-top: 5%;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
+.button-1 img{
+    width: 40px;
+    height: 40px;
+}
+
+.work-section{
+    width: 1440px;
+    height: 814px;
+    background-color: #F8F9FC;
+    margin-top: 10% ;
+    padding: 10px 20px;
+   
+    
+       
+}
+.work-section h2{
+   text-align: center;
+   margin-top: 10%;
+   
+  }
+
+.work-demo{
+    width: 100%;
+    margin-top: 5% ;
+    margin-bottom: 10% ;
+}
+.box-section{
+    width: 370px;
+    height: 374px;
+    margin-left: 30px;
+    padding: 10px 20px;
+    float: left;
+
+background: #FFFFFF;
+box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+border-radius: 19.7436px;
+}
+.box-section img{
+    width: 343.54px;
+    height: 213.23px;
+}
+
+.contact-box{
+    width: 906px;
+    height: 225px;
+    margin: 10% 8%;
+    padding: 10% 10%;
+    background-image: url(../assets/shapes/Group_33094_1.png);
+    border-radius: 30px;
+
+}
+.contact-box h2{
+   margin-top: 5%;
+    color: white;
+
+
+}
+.chat-button{
+    margin-top: 6%;
+    margin-left: 80%;
+}
+.button-2{
+    text-decoration: none;
+   
+    font-size: 16px;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    width: 170px;
+    height: 80px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+   
+  }
+  .bottom-section{
+      text-align: center;
+  }
+ .color-gray{
+     font-size: 24px;
+     font-style: normal;
+    color: #696871;
+ }
+ .email-style{
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+ }
+ .bottom-section img{
+     width: 40px;
+     height: 40px;
+     margin-left: 20px;
+ }
+ footer{
+     width: 100%;
+    
+     padding-top: 100px;
+     padding-bottom: 40px;
+     text-align: center;
+     color: #696871;
+ }
+ .menu-bar{
+    height:60px;
+    width:100%;
+    box-shadow: 0 2px 0 rgba(0, 0, 0,.1);
+    border-radius: 0 0 3px 3px;
+    padding: 10px 10px;
+   
+  }
+  .menu-bar ul{
+    list-style: none;
+    margin-left: 60%;
+      
+  }
+  .menu-bar a{
+    text-decoration: none;
+    float: left;
+    padding-left: 20px;
+    color: #363958;
+    font-weight:600;
+   
+  }
+  .menu-bar a:hover{
+    color:#FF8367;
+   
+  }
